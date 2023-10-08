@@ -16,12 +16,12 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![](./design/screenshot.jpeg)
+![](./design/Screenshot.png)
 
 ### Links
 
-- Solution URL: [https://github.com/chwenoo/qr-code-component]
-- Live Site URL: [https://chwenoo.github.io/qr-code-component/]
+- Solution URL: (https://github.com/chwenoo/qr-code-component)
+- Live Site URL: (https://chwenoo.github.io/qr-code-component/)
 
 ## My process
 
@@ -33,7 +33,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Useful resources
 
-- [Example resource](https://www.w3schools.com)
+- [letter spacing](https://www.w3schools.com/cssref/pr_text_letter-spacing.php)
 
 ## Author
 
